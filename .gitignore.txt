@@ -1,0 +1,9 @@
+/bin/
+*.class
+*.log
+*.iml
+*.tmp
+*.swp
+.DS_Store
+.idea/
+*.jar
